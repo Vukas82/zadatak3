@@ -1,2 +1,2 @@
 # zadatak3
-resenje
+ispravak resenja treceg zadatka. Za pokretanje koristiti komandu node index.js
